@@ -1,4 +1,5 @@
 # Get thee latest AMI
+# made ec2 enahncement revview and 
 data "aws_ami" "ubuntu" {
   most_recent = true
 
